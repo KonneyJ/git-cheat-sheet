@@ -21,3 +21,6 @@
 - cat file.txt - распечатай содержимое текстового файла file.txt
 
 ### Удаление
+- rm file.txt - удали файл file.txt
+- rmdir my-dir - удали папку my-dir
+- rm -r my-dir - удали папку my-dir и все, что она содержит
