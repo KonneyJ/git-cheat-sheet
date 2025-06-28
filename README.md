@@ -14,6 +14,8 @@
 - mkdir new-directory - создать папку с именем new-directory в текущей папке
 
 ### Копирование и перемещение
+- cp file.txt ~/my-dir - скопируй файл в папку my-dir
+- mv file.txt ~/my dir - перемести файл или папку в папку my-dir
 
 ### Чтение
 
