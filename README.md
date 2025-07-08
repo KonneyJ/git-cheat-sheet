@@ -68,6 +68,7 @@
 
 ## Откат файлов и коммитов
 - git restore --staged file.txt - переведи файл file.txt обратно в состояние untracked или modified
+- git restore --staged . - «сбросить» все файлы из staged обратно в untracked/modified
 - git restore file.txt - верни файл file.txt к последней версии, которая была сохранена через git commit или git add
 - git reset --hard <хэш коммита> - удали все незакоммиченные изменения из staging и "рабочей зоны" вплоть до указанного коммита
 
